@@ -347,11 +347,11 @@
       "url": "https://packages.unity.com"
     },
     "com.veriorpies.parrelsync": {
-      "version": "https://github.com/brogan89/ParrelSync.git?path=/ParrelSync#develop",
+      "version": "https://github.com/VeriorPies/ParrelSync.git?path=/ParrelSync",
       "depth": 0,
       "source": "git",
       "dependencies": {},
-      "hash": "2607606c9978c48a1b20e7bf8e7ec6b7f8a7a851"
+      "hash": "141b4e1e31966242a6fb7c495b52ac3d1221bc75"
     },
     "meta.xr.sdk.colocation": {
       "version": "file:com.meta.xr.sdk.colocation",
